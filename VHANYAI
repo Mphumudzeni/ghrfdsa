@@ -1,0 +1,83 @@
+<html>
+<head>
+    <title>CatPorfolio</title>
+</head>
+<body>
+    <h1>CodeSpace Cat's Portfolio <img src="images/"/></h1>
+    <ul>
+        <li><a href="">About Me &#128075;</a> </li>
+        <li><a href="">Skills &#128296;</a></li>
+        <li><a href="">Portfolio &#128248;</a></li>
+        <li><a href="">Contact &#129305;</a></li>
+    </ul>
+    <h2>About Me &#128049;</h2>
+    <img src="images/cat-codespace.png"/>
+    <p>Hello, I'm CodeSpace Cat. I'm purr-sionate about web development and design. i've been in the industry for just one catnap(that's less than a day in human terms)
+        and i adore crafting pawsitively,whisker-twiching, and fur-tastic, web experiences.whoa thats a lot of puns. &#128062;
+    </p>
+
+    <h2>My Skills</h2>
+    <ul>
+        <li><a>Web Development</a></li>
+        <li><a>UI/UX Design</a></li>
+        <li><a>Back-end Development</a></li>
+        <li><a>Database management</a></li>
+        <li><a>SEO optimization</a></li>
+        <li><a>Lying in the sun</a></li>
+    </ul>
+
+    <h2>Catfoloi</h2>
+    <table style="border: 1;">
+        <thead>
+            <tr>
+                <th>Project Name</th>
+                <th>Date</th>
+                <th>Description</th>
+                <th>Thumbnail</th>
+            </tr>
+           
+        </thead>
+        <tbody>
+            <tr>
+                <td>Purfet Landing Page</td>
+                <td>January 24</td>
+                <td>A delightfull landing page for cat condo</td>
+                <td><img src="images/1.png"></td>
+            </tr>
+            <tr>
+                <td>Kitty Commerce</td>
+                <td>January 24</td>
+                <td>A delightfull landing page for cat condo</td>
+                <td><img src="images/2.png"></td>
+            </tr>
+            <tr>
+                <td>CatChat Social</td>
+                <td>January 24</td>
+                <td>A delightfull landing page for cat condo</td>
+                <td><img src="images/3.png"></td>
+            </tr>
+        </tbody>
+    </table>
+
+    <h2>Contact</h2>
+    <table>
+    <tbody>
+        <tr>
+           <td>Name:</td>
+           <td><input type="text" name="username" required=""/></td>
+           <td>Email:</td>
+           <td><input type="email" name="email" required=""/></td>
+           <td>Message:</td>
+           <td><textarea id="w3review" name="w3review" rows="4" cols="50">
+            Let's do this!
+            </textarea></td>
+            <td><button>submit</button></td>
+        </tr>
+    </tbody>
+</table>
+
+<p>
+    &#169; 2024 CodeSpace Cat. All right reserved 
+</p>
+</body>
+</html>
